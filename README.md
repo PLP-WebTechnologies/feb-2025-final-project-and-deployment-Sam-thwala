@@ -28,6 +28,7 @@ Welcome to my fun little corner of the internet where I share career tips, stori
 * **GitHub**: [Sam-thwala](https://github.com/Sam-thwala)
 * **Email**: Siphesihlesamkelisiwet7@gmail.com
 * **Deployment link**: https://68277080ebf3b91738be6395--mellow-pika-6cc37f.netlify.app/
+  
 Enjoy the journey! 🌟
 
 
